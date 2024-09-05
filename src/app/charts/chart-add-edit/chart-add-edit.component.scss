@@ -1,0 +1,15 @@
+.row {
+  padding-top: .375em;
+
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.mat-mdc-dialog-surface {
+  border-radius: 1em !important;
+}
+
+.cdk-global-overlay-wrapper {
+  display: block;
+}

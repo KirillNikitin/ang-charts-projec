@@ -1,0 +1,32 @@
+<!-- <div class="navbar is-dark">
+  <div class="navbar-brand">
+
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item" routerLink="/">View mode</a>
+      <a class="navbar-item" routerLink="/settings">Settings</a>
+    </div>
+  </div>
+
+</div> -->
+
+<mat-toolbar>
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>Charts App</span>
+  <span class="example-spacer"></span>
+  <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-icon>favorite</mat-icon>
+  </button>
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+    <mat-icon>share</mat-icon>
+  </button>
+</mat-toolbar>
+
+<nav mat-tab-nav-bar [tabPanel]="tabPanel" mat-stretch-tabs="false">
+  <a mat-tab-link routerLink="/">View mode</a>
+  <a mat-tab-link routerLink="/settings">Settings</a>
+</nav>
+<mat-tab-nav-panel #tabPanel></mat-tab-nav-panel>

@@ -1,0 +1,208 @@
+{
+  "charts": [
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3
+          ],
+          "type": "line",
+          "name": ""
+        }
+      ],
+      "title": {
+        "text": "title11"
+      },
+      "date": "2024-08-10T21:00:00.000Z",
+      "id": "5bd3"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3
+          ],
+          "type": "line",
+          "name": "",
+          "color": "#cddc39"
+        }
+      ],
+      "title": {
+        "text": "sdf"
+      },
+      "date": "2024-08-10T21:00:00.000Z",
+      "id": "9d19"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3
+          ],
+          "type": "line",
+          "name": "",
+          "color": "#e0e0e0"
+        }
+      ],
+      "title": {
+        "text": "Value3"
+      },
+      "date": "2024-08-06T21:00:00.000Z",
+      "id": "32f5"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2.9,
+            3,
+            4.2,
+            2,
+            1.53,
+            4,
+            8,
+            11,
+            2.6
+          ],
+          "type": "area",
+          "name": "",
+          "color": "#ffcdd2"
+        }
+      ],
+      "title": {
+        "text": ""
+      },
+      "date": "2024-08-17T21:00:00.000Z",
+      "id": "8700"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3
+          ],
+          "type": "area",
+          "name": "",
+          "color": "#8bc34a"
+        }
+      ],
+      "title": {
+        "text": "Normal name"
+      },
+      "date": "2024-08-19T21:00:00.000Z",
+      "id": "2964"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3
+          ],
+          "type": "spline",
+          "name": "",
+          "color": "#e3f2fd"
+        }
+      ],
+      "title": {
+        "text": "rt6"
+      },
+      "id": "4rd6",
+      "date": "2024-08-19T21:00:00.000Z"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3
+          ],
+          "type": "area",
+          "name": "",
+          "color": "#9ccc65"
+        }
+      ],
+      "title": {
+        "text": "rt45"
+      },
+      "date": "2024-08-17T21:00:00.000Z",
+      "id": "ght8"
+    },
+    {
+      "id": "9c96",
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3,
+            0.8,
+            6
+          ],
+          "type": "spline",
+          "name": "",
+          "color": "#ff9800"
+        }
+      ],
+      "title": {
+        "text": "5 point"
+      },
+      "date": "2024-08-19T21:00:00.000Z"
+    },
+    {
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3,
+            2,
+            4,
+            1.3
+          ],
+          "type": "spline",
+          "name": "",
+          "color": "#009688"
+        }
+      ],
+      "title": {
+        "text": "6 points"
+      },
+      "date": "2024-08-19T21:00:00.000Z",
+      "id": "4a94"
+    },
+    {
+      "id": "0abc",
+      "series": [
+        {
+          "data": [
+            1,
+            2,
+            3,
+            2,
+            4,
+            1.3
+          ],
+          "type": "area",
+          "name": "",
+          "color": "#ffee58"
+        }
+      ],
+      "title": {
+        "text": "NewChart"
+      },
+      "date": "2024-08-21T21:00:00.000Z"
+    }
+  ]
+}
